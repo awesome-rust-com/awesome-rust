@@ -1,3 +1,24 @@
 language: rust
-before_script: gem install awesome_bot
-script: awesome_bot -f README.md --allow-dupe --allow-ssl --white-list crates.io,sciter.com,cloudsmith.io,travis-ci.org
+
+env:
+  global:
+    # Github Pages
+    - GH_REF: github.com/awesome-rust-com/awesome-rust.com
+
+before_install:
+  - gem install awesome_bot
+  - cargo install markdown2html-converter
+
+install:
+  - markdown2html-converter ./README.md -o ./public/index.html
+
+script:
+  - cd ./public
+  - git init
+  - git config user.name "wujunze"
+  - git config user.email "itwujunze@163.com"
+  - git add .
+  - git commit -m "Update Wesite By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  # Github Pages
+  - git push --force --quiet "https://$GITHUB_TOKEN@${GH_REF}" master:master
+#  - awesome_bot -f README.md --allow-dupe --allow-ssl --white-list crates.io,sciter.com,cloudsmith.io,travis-ci.org
