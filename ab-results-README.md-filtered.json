@@ -1,0 +1,128 @@
+[
+  {
+    "loc": 100,
+    "status": 404,
+    "link": "https://www.rust-lang.org/production)(organizations",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 532,
+    "status": 301,
+    "link": "https://github.com/dgriffen/rls-vs2017",
+    "redirect": "https://github.com/ZoeyR/rls-vs2017",
+    "error": ""
+  },
+  {
+    "loc": 602,
+    "status": -1,
+    "link": "https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f",
+    "redirect": "",
+    "error": "Failed to open TCP connection to medium.com:443 (No route to host - connect(2) for \"medium.com\" port 443)"
+  },
+  {
+    "loc": 639,
+    "status": 301,
+    "link": "https://github.com/tomaka/rodio",
+    "redirect": "https://github.com/RustAudio/rodio",
+    "error": ""
+  },
+  {
+    "loc": 731,
+    "status": -1,
+    "link": "https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to opensource.googleblog.com:443 (No route to host - connect(2) for \"opensource.googleblog.com\" port 443)"
+  },
+  {
+    "loc": 739,
+    "status": -1,
+    "link": "https://code.google.com/archive/p/miniz",
+    "redirect": "",
+    "error": "Failed to open TCP connection to code.google.com:443 (No route to host - connect(2) for \"code.google.com\" port 443)"
+  },
+  {
+    "loc": 958,
+    "status": 301,
+    "link": "https://github.com/Licenser/simdjson-rs",
+    "redirect": "https://github.com/simd-lite/simdjson-rs",
+    "error": ""
+  },
+  {
+    "loc": 1082,
+    "status": 301,
+    "link": "https://github.com/gliheng/flutter-rs",
+    "redirect": "https://github.com/flutter-rs/flutter-rs",
+    "error": ""
+  },
+  {
+    "loc": 1186,
+    "status": 301,
+    "link": "http://zeromq.org/",
+    "redirect": "https://zeromq.org/",
+    "error": ""
+  },
+  {
+    "loc": 1248,
+    "status": 401,
+    "link": "https://gitlab.com/r-iendo/yarte/badges/master/build.svg",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 1248,
+    "status": 302,
+    "link": "https://gitlab.com/r-iendo/yarte",
+    "redirect": "https://gitlab.com/users/sign_in",
+    "error": ""
+  },
+  {
+    "loc": 1248,
+    "status": 302,
+    "link": "https://gitlab.com/r-iendo/yarte/pipelines",
+    "redirect": "https://gitlab.com/users/sign_in",
+    "error": ""
+  },
+  {
+    "loc": 1286,
+    "status": -1,
+    "link": "https://chromium.googlesource.com/chromiumos/platform/crosvm/",
+    "redirect": "",
+    "error": "Failed to open TCP connection to chromium.googlesource.com:443 (No route to host - connect(2) for \"chromium.googlesource.com\" port 443)"
+  },
+  {
+    "loc": 1322,
+    "status": 301,
+    "link": "https://github.com/oltdaniel/zap",
+    "redirect": "https://github.com/0x1daniel/zap",
+    "error": ""
+  },
+  {
+    "loc": 1355,
+    "status": -1,
+    "link": "https://twitter.com/@b0rk",
+    "redirect": "",
+    "error": "Failed to open TCP connection to twitter.com:443 (No route to host - connect(2) for \"twitter.com\" port 443)"
+  },
+  {
+    "loc": 1355,
+    "status": -1,
+    "link": "https://speakerdeck.com/jvns/learning-systems-programming-with-rust",
+    "redirect": "",
+    "error": "Failed to open TCP connection to speakerdeck.com:443 (Operation timed out - connect(2) for \"speakerdeck.com\" port 443)"
+  },
+  {
+    "loc": 1356,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=t4CyEKb-ywA",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.youtube.com:443 (No route to host - connect(2) for \"www.youtube.com\" port 443)"
+  },
+  {
+    "loc": 1357,
+    "status": -1,
+    "link": "https://www.youtube.com/watch?v=lO1z-7cuRYI",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.youtube.com:443 (No route to host - connect(2) for \"www.youtube.com\" port 443)"
+  }
+]

@@ -1,7 +1,7 @@
 # Awesome Rust
 [<img src="https://api.travis-ci.org/awesome-rust-com/awesome-rust.svg?branch=master">](https://travis-ci.org/awesome-rust-com/awesome-rust)
 
-A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Rust frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
 

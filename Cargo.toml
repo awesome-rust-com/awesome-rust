@@ -2,6 +2,13 @@
 name = "awesome-rust"
 version = "0.1.0"
 authors = ["wujunze <itwujunze@163.com>"]
-edition = "2018"
+repository = "https://github.com/magiclen/markdown2html-converter"
+homepage = "https://magiclen.org/markdown2html-converter"
+keywords = ["awesome", "libraries", "frameworks"]
+categories = ["resource"]
+description= "A curated list of awesome Rust frameworks, libraries and software."
+readme = "README.md"
+license = "MIT"
+
 
 [dependencies]
