@@ -2,7 +2,7 @@
 name = "awesome-rust"
 version = "0.1.0"
 authors = ["wujunze <itwujunze@163.com>"]
-repository = "https://github.com/magiclen/markdown2html-converter"
+repository = "https://github.com/awesome-rust-com/awesome-rust"
 homepage = "https://magiclen.org/markdown2html-converter"
 keywords = ["awesome", "libraries", "frameworks"]
 categories = ["resource"]
