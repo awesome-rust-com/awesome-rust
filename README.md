@@ -255,6 +255,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — A semi-automatic OSINT framework and package manager [<img src="https://api.travis-ci.org/kpcyrd/sn0int.svg?branch=master">](https://travis-ci.org/kpcyrd/sn0int)
 * [Gymmasssorla/anevicon](https://github.com/Gymmasssorla/anevicon) — The most powerful UDP-based load generator, written in Rust [<img src="https://api.travis-ci.com/Gymmasssorla/anevicon.svg?branch=master">](https://travis-ci.com/Gymmasssorla/anevicon)
 * [Gymmasssorla/finshir](https://github.com/Gymmasssorla/finshir) — A coroutines-driven Low & Slow traffic generator, written in Rust [<img src="https://api.travis-ci.com/Gymmasssorla/finshir.svg?branch=master">](https://travis-ci.com/Gymmasssorla/finshir)
+* [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 
 ### System tools
 
@@ -359,6 +360,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [rust-lang-nursery/rustfix](https://github.com/rust-lang-nursery/rustfix)  — automatically applies the suggestions made by rustc [<img src="https://api.travis-ci.org/killercup/rustfix.svg?branch=master">](https://travis-ci.org/killercup/rustfix)
 * [just](https://github.com/casey/just) — A handy command runner for project-specific tasks [<img src="https://api.travis-ci.org/casey/just.svg?branch=master">](https://travis-ci.org/casey/just)
 * [Module Linker](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+* [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 * [ptags](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 * [Racer](https://github.com/racer-rust/racer) — code completion for Rust [<img src="https://api.travis-ci.com/phildawes/racer.svg?branch=master">](https://travis-ci.org/phildawes/racer)
 * [rustfmt](https://github.com/rust-lang/rustfmt) — A Rust code formatter [<img src="https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master">](https://travis-ci.org/rust-lang/rustfmt)
@@ -439,6 +441,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [japaric/rust-cross](https://github.com/japaric/rust-cross) — everything you need to know about cross compiling Rust programs [<img src="https://api.travis-ci.org/japaric/rust-cross.svg?branch=master">](https://travis-ci.org/japaric/rust-cross)
   * [japaric/xargo](https://github.com/japaric/xargo) — effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M [<img src="https://api.travis-ci.org/japaric/xargo.svg?branch=master">](https://travis-ci.org/japaric/xargo)
 * Raspberry Pi
+* [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
   * [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi) — instructions for how to cross compile Rust projects for the Raspberry Pi .
 * Arduino
   * [avr-rust/ruduino](https://github.com/avr-rust/ruduino) ^`^t Reusable components for the Arduino Uno.
@@ -644,6 +647,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Authentication
 
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
+* [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 
 ### Automotive
 
@@ -793,6 +797,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [exonum/exonum](https://github.com/exonum/exonum) [[exonum](https://crates.io/crates/exonum)] — extensible framework for blockchain projects [<img src="https://api.travis-ci.com/exonum/exonum.svg?branch=master">](https://travis-ci.org/exonum/exonum)
 * [klutzy/suruga](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://tools.ietf.org/html/rfc5246)
 * [libOctavo/octavo](https://github.com/libOctavo/octavo) — Modular hash and crypto library in Rust [<img src="https://api.travis-ci.org/libOctavo/octavo.svg?branch=master">](https://travis-ci.org/libOctavo/octavo)
+* [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 * [RustCrypto/hashes](https://github.com/RustCrypto/hashes) — Collection of cryptographic hash functions written in pure Rust [<img src="https://api.travis-ci.org/RustCrypto/hashes.svg?branch=master">](https://travis-ci.org/RustCrypto/hashes)
 * [rustindia/mpw-rs](https://github.com/rustindia/mpw-rs) — Pure Rust implementation of the Master Password password manager [<img src="https://api.travis-ci.org/rustindia/mpw-rs.svg?branch=master">](https://travis-ci.org/rustindia/mpw-rs)
 * [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe) — Library providing several Attribute-Based Encryption (ABE) schemes
@@ -904,6 +909,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [whitfin/efflux](https://github.com/whitfin/efflux) — Easy Hadoop Streaming and MapReduce interfaces in Rust.
 * Apache Kafka
   * [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka](https://github.com/edenhill/librdkafka) bindings [<img src="https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master">](https://travis-ci.org/fede1024/rust-rdkafka)
+  * [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
   * [spicavigo/kafka-rust](https://github.com/spicavigo/kafka-rust) — [<img src="https://api.travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
 * Beanstalkd
   * [schickling/rust-beanstalkd](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd](https://github.com/beanstalkd/beanstalkd) bindings [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
@@ -1174,6 +1180,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) [[Nng](http://crates.io/crates/nng)] — [Nng (nanomsg v2)](https://nanomsg.github.io/nng/index.html) bindings [<img src="https://gitlab.com/neachdainn/nng-rs/badges/master/pipeline.svg">](https://gitlab.com/neachdainn/nng-rs/pipelines)
 * NNTP
   * [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-nntp.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-nntp)
+  * [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 * POP3
   * [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) — A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-pop3.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-pop3)
 * SSH
