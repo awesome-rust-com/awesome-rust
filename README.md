@@ -1248,6 +1248,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [gluon-lang/gluon](https://github.com/gluon-lang/gluon) —  A small, statically-typed, functional programming language
 * [murarth/ketos](https://github.com/murarth/ketos) — A Lisp dialect functional programming language serving as a scripting and extension language for rust
 * [moss](https://crates.io/crates/moss) — A dynamically typed scripting language
+* [Passerine](https://github.com/vrtbl/passerine) — A small extensible functional scripting language designed for concise expression with little code [![build](https://github.com/vrtbl/passerine/workflows/Rust/badge.svg)](https://github.com/vrtbl/passerine/actions)
 * [jonathandturner/rhai](https://github.com/jonathandturner/rhai) — A tiny and fast embedded scripting language resembling a combination of JS and Rust
 
 ### Template engine
