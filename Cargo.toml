@@ -1,9 +1,9 @@
 [package]
 name = "awesome-rust"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["wujunze <itwujunze@163.com>"]
 repository = "https://github.com/awesome-rust-com/awesome-rust"
-homepage = "https://magiclen.org/markdown2html-converter"
+homepage = "https://github.com/awesome-rust-com/awesome-rus"
 keywords = ["awesome", "libraries", "frameworks"]
 categories = ["resource"]
 description= "A curated list of awesome Rust frameworks, libraries and software."
