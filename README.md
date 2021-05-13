@@ -916,7 +916,9 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [schickling/rust-beanstalkd](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd](https://github.com/beanstalkd/beanstalkd) bindings [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
 * HDFS
   * [hyunsik/hdfs-rs](https://github.com/hyunsik/hdfs-rs) — libhdfs bindings [<img src="https://api.travis-ci.org/hyunsik/hdfs-rs.svg?branch=master">](https://travis-ci.org/hyunsik/hdfs-rs)
-
+* Zenoh
+  * [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - A [distributed programming framework](https://zenoh.io) that unifies data in motion, data at rest and computations. It elegantly blends traditional pub/sub with geo distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks. [![CI](https://github.com/eclipse-zenoh/zenoh/workflows/CI/badge.svg)](https://github.com/eclipse-zenoh/zenoh/actions?query=workflow%3A%22CI%22) 	
+ 
 ### Email
 
 [[email](https://crates.io/keywords/email), [imap](https://crates.io/keywords/imap), [smtp](https://crates.io/keywords/smtp)]
@@ -1195,6 +1197,8 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [erickt/rust-zmq](https://github.com/erickt/rust-zmq) — [ZeroMQ](http://zeromq.org/) bindings [<img src="https://api.travis-ci.org/erickt/rust-zmq.svg?branch=master">](https://travis-ci.org/erickt/rust-zmq)
 * CoAP
   * [Covertness/coap-rs](https://github.com/Covertness/coap-rs) — A [Constrained Application Protocol(CoAP)](https://tools.ietf.org/html/rfc7252) library for Rust. [<img src="https://api.travis-ci.org/Covertness/coap-rs.svg?branch=master">](https://travis-ci.org/Covertness/coap-rs)
+* Zenoh
+  * [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) - A [protocol](https://zenoh.io) that unifies data in motion, data at rest and computations. It elegantly blends traditional pub/sub with geo distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks. [![CI](https://github.com/eclipse-zenoh/zenoh/workflows/CI/badge.svg)](https://github.com/eclipse-zenoh/zenoh/actions?query=workflow%3A%22CI%22) 	
 
 ### Parsing
 
