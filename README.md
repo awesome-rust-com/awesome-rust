@@ -845,6 +845,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * MongoDB [[mongodb](https://crates.io/keywords/mongodb)]
     * [mongodb-labs/mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) [[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings [<img src="https://api.travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg">](https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype)
   * Neo4j [[cypher](https://crates.io/keywords/cypher), [neo4j](https://crates.io/keywords/neo4j)]
+  * QLDB [[QLDB](https://aws.amazon.com/qldb/)]
+    * [Couragium/qldb-rs](https://github.com/Couragium/qldb-rs) [[qldb](https://crates.io/crates/qldb)] — [AWS QLDB](https://aws.amazon.com/qldb/) driver.
   * Redis [[redis](https://crates.io/keywords/redis)]
     * [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) — [Redis](https://redis.io/) library in Rust [<img src="https://api.travis-ci.org/mitsuhiko/redis-rs.svg?branch=master">](https://travis-ci.org/mitsuhiko/redis-rs)
   * [RocksDB](https://rocksdb.org/)
@@ -962,6 +964,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * HTML
   * [servo/html5ever](https://github.com/servo/html5ever) — High-performance browser-grade HTML5 parser [<img src="https://api.travis-ci.com/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
   * [veddan/rust-htmlescape](https://github.com/veddan/rust-htmlescape) — encoding/decoding HTML entities [<img src="https://api.travis-ci.org/veddan/rust-htmlescape.svg?branch=master">](https://travis-ci.org/veddan/rust-htmlescape)
+* Ion
+  * [Couragium/ion-binary-rs](https://crates.io/crates/ion-binary-rs) — Amazon's Ion binary format encoder, decoder and hasher [<img src="https://github.com/Couragium/ion-binary-rs/workflows/Rust/badge.svg">](https://github.com/Couragium/ion-binary-rs/actions)
 * JSON
   * [pikkr/pikkr](https://github.com/pikkr/pikkr) [[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
   * [serde-rs/json](https://github.com/serde-rs/json) [[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde](https://github.com/serde-rs/serde) framework [<img src="https://api.travis-ci.org/serde-rs/json.svg?branch=master">](https://travis-ci.org/serde-rs/json)
