@@ -1259,6 +1259,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [moss](https://crates.io/crates/moss) — A dynamically typed scripting language
 * [Passerine](https://github.com/vrtbl/passerine) — A small extensible functional scripting language designed for concise expression with little code [![build](https://github.com/vrtbl/passerine/workflows/Rust/badge.svg)](https://github.com/vrtbl/passerine/actions)
 * [jonathandturner/rhai](https://github.com/jonathandturner/rhai) — A tiny and fast embedded scripting language resembling a combination of JS and Rust
+* [metacall/core](https://github.com/metacall/core) [[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 
 ### Template engine
 
