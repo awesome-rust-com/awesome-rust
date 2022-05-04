@@ -19,5 +19,4 @@ jobs:
           ruby-version: '3.1'
       - name: Install dependencies
         run: gem install awesome_bot
-      - name: Run tests
-        run: awesome_bot README.md --white-list blubrry.net,travis-ci,tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com --allow 429  --allow-dupe
+    
