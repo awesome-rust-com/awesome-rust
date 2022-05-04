@@ -1,24 +1,23 @@
-name: site-deploy
+name: deplpy
 
 on:
   push:
-    branches:
-      - 'master'
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
-  build:
-    name: Make and Deploy site
+  test:
+
     runs-on: ubuntu-latest
+
     steps:
-    - uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
-    - name: install awesome_bot
-      run: gem install awesome_bot
-    - name: markdown2html-converter
-      run: cargo install markdown2html-converter
-    - name: exec
-      uses: markdown2html-converter ./README.md -o ./public/index.html
-      with:
-        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        NETLIFY_DEPLOY_TO_PROD: true
-        build_directory: tmpl
+      - uses: actions/checkout@v3
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
+        with:
+          ruby-version: '3.1'
+      - name: Install dependencies
+        run: gem install awesome_bot
+      - name: Run tests
+        run: awesome_bot README.md --white-list travis-ci,tslint,code.visualstudio.com,awesome,microsoft.com,viatsko.me,drupal.org,camo.githubusercontent.com --allow 429  --allow-dupe
