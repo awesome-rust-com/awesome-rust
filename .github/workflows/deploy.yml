@@ -1,0 +1,26 @@
+name: site-deploy
+
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  build:
+    name: Make and Deploy site
+    runs-on: ubuntu-latest
+    environment: netlify
+    container: golang:latest
+    steps:
+    - uses: actions/checkout@1.0.0
+    - name: install awesome_bot
+      run: gem install awesome_bot
+    - name: markdown2html-converter
+      run: cargo install markdown2html-converter
+    - name: exec
+      uses: markdown2html-converter ./README.md -o ./public/index.html
+      with:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        NETLIFY_DEPLOY_TO_PROD: true
+        build_directory: tmpl
