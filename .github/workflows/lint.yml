@@ -1,4 +1,4 @@
-name: deplpy
+name: lint
 
 on:
   push:
