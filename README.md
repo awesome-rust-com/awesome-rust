@@ -593,8 +593,9 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Artificial Intelligence
 
-#### Genetic algorithms
+#### Genetic Algorithms
 
+* [thomasbratt/watchmaker](https://github.com/thomasbratt/watchmaker) — Genetic Algorithm library. Implement a single trait for your problem and call a single method. Supports progress reporting, configureable parameters. Work in progress and API will change in future releases (see roadmap in README.md).  [![CircleCI](https://circleci.com/gh/thomasbratt/watchmaker/tree/main.svg?style=svg)](https://circleci.com/gh/thomasbratt/watchmaker/tree/main)
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen) — Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.
 * [innoave/genevo](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — This library allows you to write evolutionary algorithms (EA) using the Rust programming language. Written by Willi Kappler, License: MIT — Version 0.4 (2017.06.26).
