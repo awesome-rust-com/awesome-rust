@@ -9,8 +9,6 @@ jobs:
   build:
     name: Make and Deploy site
     runs-on: ubuntu-latest
-    environment: netlify
-    container: golang:latest
     steps:
     - uses: actions/checkout@1.0.0
     - name: install awesome_bot
