@@ -1,5 +1,5 @@
 # Awesome Rust
-![example workflow](https://github.com/awesome-rust-com/awesome-rust/actions/workflows/lint/badge.svg)
+[![lint](https://github.com/awesome-rust-com/awesome-rust/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/awesome-rust-com/awesome-rust/actions/workflows/lint.yml)
 
 A curated list of awesome Rust frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
