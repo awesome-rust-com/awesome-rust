@@ -888,6 +888,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [bluss/ndarray](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) — Dataframe structure and operations in Rust
 * [weld-project/weld](https://github.com/weld-project/weld) — High-performance runtime for data analytics applications
+* [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation.
 * [singularity-data/risingwave](https://github.com/singularity-data/risingwave) — RisingWave is a cloud-native streaming database that uses SQL as the interface language.
 
 ### Data structures
