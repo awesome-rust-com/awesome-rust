@@ -348,6 +348,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 
 ### Web Servers
+* [Man In The Middle Proxy](https://github.com/emanuele-em/man-in-the-middle-proxy) — A MITM Proxy Written in Rust 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities.
 * [Poem Framework](https://github.com/poem-web/poem) — A full-featured and easy-to-use web framework with the Rust programming language.
 * [thecoshman/http](https://github.com/thecoshman/http) — Host These Things Please — A basic http server for hosting a folder fast and simply [<img src="https://api.travis-ci.org/thecoshman/http.svg?branch=master">](https://travis-ci.org/thecoshman/http)
 * [svenstaro/miniserve](https://github.com/svenstaro/miniserve) — A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [<img src="https://api.travis-ci.org/svenstaro/miniserve.svg?branch=master">](https://travis-ci.org/svenstaro/miniserve)
