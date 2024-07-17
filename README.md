@@ -295,6 +295,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) — counts the lines of code [<img src="https://img.shields.io/travis/XAMPPRocky/tokei.svg">](https://travis-ci.org/XAMPPRocky/tokei)
 * [nushell/nushell](https://github.com/nushell/nushell) — A multiplatform, data oriented shell and a scripting language
 * [gblach/reflicate](https://github.com/gblach/reflicate) —  Deduplicate data by creating reflinks between identical files. [![build](https://github.com/gblach/reflicate/actions/workflows/rust.yml/badge.svg)](https://github.com/gblach/reflicate/actions/workflows/rust.yml)
+* [gblach/imge](https://github.com/gblach/imge) — Write disk images to physical drive or vice versa with on-the-fly compression/decompression. [![Rust check](https://github.com/gblach/imge/actions/workflows/rust-check.yml/badge.svg)](https://github.com/gblach/imge/actions/workflows/rust-check.yml)
 
 ### Text editors
 
