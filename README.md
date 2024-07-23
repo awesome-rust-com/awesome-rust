@@ -903,6 +903,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [weld-project/weld](https://github.com/weld-project/weld) — High-performance runtime for data analytics applications
 * [salsa-rs/salsa](https://github.com/salsa-rs/salsa) - A generic framework for on-demand, incrementalized computation.
 * [singularity-data/risingwave](https://github.com/singularity-data/risingwave) — RisingWave is a cloud-native streaming database that uses SQL as the interface language.
+* [swimos/swim-rust](https://github.com/swimos/swim-rust/) — SwimOS is a framework for building real-time streaming data processing applications [![build status](https://github.com/swimos/swim-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/mjovanc/njord/actions/workflows/ci.yml)
 
 ### Data structures
 
