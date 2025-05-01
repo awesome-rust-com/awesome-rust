@@ -4,7 +4,7 @@
 A curated list of awesome Rust frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
-
+ƒ
 Please take a quick gander at the [contribution guidelines](https://github.com/awesome-rust-com/awesome-rust/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/awesome-rust-com/awesome-rust/graphs/contributors); you rock!
 
 ## Table of contents
@@ -85,6 +85,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   * [Parsing](#parsing)
   * [Peripherals](#peripherals)
   * [Platform specific](#platform-specific)
+  * [Robotics](#robotics)
   * [Scripting](#scripting)
   * [Template engine](#template-engine)
   * [Text processing](#text-processing-1)
@@ -1285,6 +1286,9 @@ See also [Are we game yet?](http://arewegameyet.com)
 * FreeBSD
   * [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/) — Rust implementation of a FreeBSD jail library
   * [dlrobertson/capsicum-rs](https://github.com/dlrobertson/capsicum-rs) — Rust bindings for the FreeBSD capsicum framework
+
+### Robotics
+* * [dysonltd/universal-robot](https://github.com/dysonltd/universal-robot) — Universal Robot Cobot Ethernet Communication API
 
 ### Scripting
 
