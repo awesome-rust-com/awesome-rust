@@ -4,7 +4,7 @@
 A curated list of awesome Rust frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
-ƒ
+
 Please take a quick gander at the [contribution guidelines](https://github.com/awesome-rust-com/awesome-rust/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/awesome-rust-com/awesome-rust/graphs/contributors); you rock!
 
 ## Table of contents
