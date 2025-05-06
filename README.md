@@ -85,6 +85,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   * [Parsing](#parsing)
   * [Peripherals](#peripherals)
   * [Platform specific](#platform-specific)
+  * [Robotics](#robotics)
   * [Scripting](#scripting)
   * [Template engine](#template-engine)
   * [Text processing](#text-processing-1)
@@ -1286,6 +1287,9 @@ See also [Are we game yet?](http://arewegameyet.com)
 * FreeBSD
   * [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/) — Rust implementation of a FreeBSD jail library
   * [dlrobertson/capsicum-rs](https://github.com/dlrobertson/capsicum-rs) — Rust bindings for the FreeBSD capsicum framework
+
+### Robotics
+* * [dysonltd/universal-robot](https://github.com/dysonltd/universal-robot) — Universal Robot Cobot Ethernet Communication API
 
 ### Scripting
 
