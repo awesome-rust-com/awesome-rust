@@ -15,6 +15,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   * [Database](#database)
   * [Emulators](#emulators)
   * [Games](#games)
+  * [Media](#media)
   * [Graphics](#graphics)
   * [Industrial automation](#industrial-automation)
   * [Operating systems](#operating-systems)
@@ -219,6 +220,12 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [aleshaleksey/TGWM](https://github.com/aleshaleksey/TGWM) — An RPG with turned-based mechanics (work in progress) [<img src="https://api.travis-ci.org/aleshaleksey/TGWM.svg?branch=master">](https://travis-ci.org/aleshaleksey/TGWM)
 * [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) — Extensible open world rogue like game with pixel art [<img src="https://api.travis-ci.org/garkimasera/rusted-ruins.svg?branch=master">](https://travis-ci.org/garkimasera/rusted-ruins)
 * [Veloren](https://gitlab.com/veloren/veloren) — An open-world, open-source multiplayer voxel RPG.
+
+### Media
+
+* [L4z3x/mal-cli](https://github.com/L4z3x/mal-cli) — A TUI app for MyAnimelist. [![CI (GitHub Actions)](https://github.com/L4z3x/mal-cli/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/L4z3x/mal-cli/actions/workflows/rust.yml)
+
+
 
 ### Graphics
 
