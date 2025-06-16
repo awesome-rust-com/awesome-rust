@@ -100,7 +100,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ## Applications
 
-See also [Rust — Production](https://www.rust-lang.org/production)(organizations running Rust in production).
+See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organizations running Rust in production) and [Rust Companies](https://github.com/omarabid/rust-companies) (A curated list of companies using Rust in production).
 
 * [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — interative assembly shell written in rust.
