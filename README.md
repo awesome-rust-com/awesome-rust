@@ -211,6 +211,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [Zone of Control](https://github.com/ozkriff/zoc) — A turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zoc.svg?branch=master">](https://travis-ci.org/ozkriff/zoc). Discontinued. There are no forks.
 * [rhex](https://github.com/dpc/rhex) — hexagonal ascii roguelike
 * [citybound](https://github.com/citybound/citybound) — The city sim you deserve
+* [GitType](https://github.com/unhappychoice/gittype) — A CLI code-typing game that turns your source code into typing challenges
 * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) — A small 2D turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zemeroth.svg?branch=master">](https://travis-ci.org/ozkriff/zemeroth)
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — A roguelike game in Rust
 * [schulke-214/rsnake](https://github.com/schulke-214/rsnake) — Snake written in Rust.
