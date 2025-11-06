@@ -339,6 +339,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) — A command line tool to concatenate Amazon S3 files remotely using flexible patterns.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) — A command line tool to gather metadata about your Amazon S3 buckets.
 * [Tabiew](https://github.com/shshemi/tabiew) — A lightweight TUI app to view and query CSV files.
+* [thanks-stars](https://github.com/Kenzo-Wada/thanks-stars) — CLI that stars the GitHub repositories your project depends on across multiple ecosystems.
 * [Tuckr](https://github.com/RaphGL/Tuckr) — A dotfile and symlink manager that requires no configuration, inspired by GNU Stow's approach.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) — A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV!
 * [aleshaleksey/AZDice](https://github.com/aleshaleksey/AZDice) — A dice roll success distribution generator for tabletop homebrewers. [<img src="https://api.travis-ci.org/aleshaleksey/AZDice.svg?branch=master">](https://travis-ci.org/aleshaleksey/AZDice)
