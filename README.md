@@ -13,6 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   * [Audio](#audio)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
+  * [Emails](#emails)
   * [Emulators](#emulators)
   * [Games](#games)
   * [Media](#media)
