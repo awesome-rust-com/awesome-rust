@@ -175,6 +175,9 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [SurrealDB](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database in Rust [<img src="https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration">](https://github.com/surrealdb/surrealdb/actions)
 * [tikv](https://github.com/tikv/tikv) — A distributed KV database in Rust [<img src="https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708">](https://circleci.com/gh/tikv/tikv)
 
+### Emails
+* [Bichon](https://github.com/rustmailer/bichon) — A lightweight, high-performance Rust email archiver with WebUI
+
 ### Emulators
 
 See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulator).
