@@ -13,6 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   * [Audio](#audio)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
+  * [Emails](#emails)
   * [Emulators](#emulators)
   * [Games](#games)
   * [Media](#media)
@@ -174,6 +175,9 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 [<img src="https://api.travis-ci.org/paritytech/paritydb.svg?branch=master">](https://travis-ci.org/paritytech/paritydb)
 * [SurrealDB](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database in Rust [<img src="https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration">](https://github.com/surrealdb/surrealdb/actions)
 * [tikv](https://github.com/tikv/tikv) — A distributed KV database in Rust [<img src="https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708">](https://circleci.com/gh/tikv/tikv)
+
+### Emails
+* [Bichon](https://github.com/rustmailer/bichon) — A lightweight, high-performance Rust email archiver with WebUI
 
 ### Emulators
 
