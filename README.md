@@ -274,6 +274,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Gymmasssorla/finshir](https://github.com/Gymmasssorla/finshir) — A coroutines-driven Low & Slow traffic generator, written in Rust [<img src="https://api.travis-ci.com/Gymmasssorla/finshir.svg?branch=master">](https://travis-ci.com/Gymmasssorla/finshir)
 * [Ockam](https://github.com/ockam-network/ockam) — A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [<img src="https://github.com/ockam-network/ockam/workflows/Continuous%20Integration/badge.svg">](https://github.com/ockam-network/ockam/actions?query=workflow%3A%22Continuous+Integration%22)
 * [RustNet](https://github.com/domcyrus/rustnet) - A cross platform real time network monitoring tool. [![Build Status](https://github.com/domcyrus/rustnet/workflows/Rust/badge.svg)](https://github.com/domcyrus/rustnet/actions)
+* [SystemVll/TAuth](https://github.com/SystemVll/TAuth) - An easy, memory safe and user friendly 2FA & Credentials manager, for your PC.
 
 ### System tools
 
