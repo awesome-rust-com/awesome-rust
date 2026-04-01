@@ -11,6 +11,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [Applications](#applications)
   * [Audio](#audio)
+  * [Container Engines](#container-engines)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
   * [Emails](#emails)
@@ -137,6 +138,10 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 ### Audio
 
 * [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — A command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
+
+### Container Engines
+
+* [Nucleus](https://github.com/sumant1122/Nucleus) — A high-performance, minimalistic container engine in Rust
 
 ### Cryptocurrencies
 
