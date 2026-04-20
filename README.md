@@ -11,6 +11,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [Applications](#applications)
   * [Audio](#audio)
+  * [CI/CD Runners](#cicd-runners)
   * [Container Engines](#container-engines)
   * [Cryptocurrencies](#cryptocurrencies)
   * [Database](#database)
@@ -138,6 +139,10 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 ### Audio
 
 * [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — A command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
+
+### CI/CD Runners
+
+* [Conveyor](https://github.com/sumant1122/Conveyor) — Fast, secure, local-first CI/CD pipelines with a real-time TUI. DAG workflows, cron triggers, and artifact management powered by Rust.
 
 ### Container Engines
 
