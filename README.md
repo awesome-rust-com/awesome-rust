@@ -902,6 +902,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * MongoDB [[mongodb](https://crates.io/keywords/mongodb)]
     * [mongodb-labs/mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) [[mongodb](https://crates.io/crates/mongodb)] — [MongoDB](https://www.mongodb.com/) bindings [<img src="https://api.travis-ci.org/mongodb-labs/mongo-rust-driver-prototype.svg">](https://travis-ci.org/mongodb-labs/mongo-rust-driver-prototype)
   * Neo4j [[cypher](https://crates.io/keywords/cypher), [neo4j](https://crates.io/keywords/neo4j)]
+  * [omnigraph](https://github.com/ModernRelay/omnigraph) — Typed graph database where agents branch and merge like Git. S3-native, traversal + vector + BM25 in one runtime
   * QLDB [[QLDB](https://aws.amazon.com/qldb/)]
     * [Couragium/qldb-rs](https://github.com/Couragium/qldb-rs) [[qldb](https://crates.io/crates/qldb)] — [AWS QLDB](https://aws.amazon.com/qldb/) driver.
   * Redis [[redis](https://crates.io/keywords/redis)]
