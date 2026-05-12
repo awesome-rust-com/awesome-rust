@@ -176,7 +176,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 
 ### Database
 
-* [dakera](https://github.com/dakera-ai/dakera-mcp) — Self-hosted AI agent memory server; RocksDB-backed vector store with hybrid BM25+HNSW search, knowledge graph, temporal decay, and 83 MCP tools. 87.8% LoCoMo benchmark score.
+* [dakera-client](https://crates.io/crates/dakera-client) — Rust client SDK for the Dakera self-hosted AI agent memory server; async store/recall, sessions, knowledge graph, vector search, and namespace management. [[docs.rs](https://docs.rs/dakera-client)]
 * [indradb](https://crates.io/crates/indradb) — Rust based graph database [<img src="https://api.travis-ci.org/indradb/indradb.svg?branch=master">](https://travis-ci.org/indradb/indradb)
 * [HelixDB](https://github.com/HelixDB/helix-db) — An open-source graph-vector database written in Rust [<img src="https://raw.githubusercontent.com/HelixDB/helix-db/main/assets/full_logo.png">](https://raw.githubusercontent.com/HelixDB/helix-db/main/assets/full_logo.png)
 * [noria](https://crates.io/crates/noria) — Dynamically changing, partially-stateful data-flow for web application backends [<img src="https://api.travis-ci.org/mit-pdos/noria.svg?branch=master">](https://travis-ci.org/mit-pdos/noria)
