@@ -296,6 +296,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
 * [dalance/procs](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [<img src="https://dev.azure.com/dalance/procs/_apis/build/status/dalance.procs?branchName=master">](https://dev.azure.com/dalance/procs/_build/results?buildId=250)
 * [ddh](https://github.com/darakian/ddh) — Fast duplicate file finder [<img src="https://api.travis-ci.org/darakian/ddh.svg?branch=master">](https://travis-ci.org/darakian/ddh)
+* [dutradotdev/quokka](https://github.com/dutradotdev/quokka) — Terminal-native iPhone inspection and cleanup over USB for macOS. No jailbreak.
 * [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [Glubiz/zirv](https://github.com/Glubiz/zirv-dynamic-cli) - CLI for workflow automation via YAML/JSON/TOML scripts
 * [j0ru/kickoff](https://github.com/j0ru/kickoff) — Fast wayland program launcher
