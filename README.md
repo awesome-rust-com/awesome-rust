@@ -1311,6 +1311,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 * Cross-platform
   * [svartalf/rust-battery](https://crates.io/crates/battery) — Cross-platform information about the notebook batteries [<img src="https://api.travis-ci.org/svartalf/rust-battery.svg?branch=master">](https://travis-ci.org/svartalf/rust-battery)
+  * [Mohammed-Aman-Khan/zinc](https://github.com/Mohammed-Aman-Khan/zinc) - Gives processes in any language direct access to the same physical memory. No serialization. No copies. No kernel round-trips.
   
 * Linux
   * [frol/cgroups-fs](https://github.com/frol/cgroups-fs) — Rust bindings to Linux Control Groups (cgroups) [<img src="https://api.travis-ci.org/frol/cgroups-fs.svg?branch=master">](https://travis-ci.org/frol/cgroups-fs)
