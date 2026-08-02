@@ -141,6 +141,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 ### Audio
 
 * [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) — A command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
+* [rusty-amp](https://github.com/danylokravchenko/rusty-amp) — A complete guitar amp and pedalboard rig with external plugins support that runs right in your terminal.
 
 ### CI/CD Runners
 
