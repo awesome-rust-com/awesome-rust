@@ -1254,7 +1254,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 ### Network programming
 
 * HTTP
-  * [aisk/bangboo](https://github.com/aisk/bangboo) — A synchronous HTTP client with a reqwest-like blocking API
+  * [aisk/bangboo](https://github.com/aisk/bangboo) — A synchronous HTTP client with a reqwest-like blocking API. [<img src="https://github.com/aisk/bangboo/actions/workflows/ci.yml/badge.svg">](https://github.com/aisk/bangboo/actions/workflows/ci.yml)
   * [pop-os/parallel-getter](https://github.com/pop-os/parallel-getter) — Download a file with parallel GET requests to maximize bandwidth usage.
   * [pop-os/url-crawler](https://github.com/pop-os/url-crawler) — A configurable parallel web crawler, designed to crawl a website for content.
   * [pop-os/url-scraper](https://github.com/pop-os/url-scraper) — Scrape URLs from HTML pages
