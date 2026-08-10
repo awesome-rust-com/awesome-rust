@@ -299,6 +299,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 * [brocode/fblog](https://github.com/brocode/fblog) — Small command-line JSON Log viewer [<img src="https://api.travis-ci.org/brocode/fblog.svg?branch=master">](https://travis-ci.org/brocode/fblog)
 * [buster/rrun](https://github.com/buster/rrun) — A command launcher for Linux, similar to gmrun  [<img src="https://api.travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
+* [Causeway](https://wildernessinteractive.com/causeway) — A standalone Rust MCP server for controlling Chromium through the Chrome DevTools Protocol. [[source]](https://github.com/wilderness-interactive/causeway)
 * [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — A configurable filesystem watcher inspired by [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
 * [dalance/procs](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [<img src="https://dev.azure.com/dalance/procs/_apis/build/status/dalance.procs?branchName=master">](https://dev.azure.com/dalance/procs/_build/results?buildId=250)
 * [ddh](https://github.com/darakian/ddh) — Fast duplicate file finder [<img src="https://api.travis-ci.org/darakian/ddh.svg?branch=master">](https://travis-ci.org/darakian/ddh)
