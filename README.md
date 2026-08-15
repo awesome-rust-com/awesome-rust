@@ -110,7 +110,6 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — A command line utility to walk an Amazon S3 hierarchy, an analog of find for Amazon S3 [<img src="https://api.travis-ci.org/AnderEnder/s3find-rs.svg?branch=master">](https://travis-ci.org/AnderEnder/s3find-rs)
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation [<img src="https://img.shields.io/badge/crates.io-v0.2.0-orange.svg">](https://crates.io/crates/boringtun)
 * [denoland/deno](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio [<img src="https://api.travis-ci.com/denoland/deno.svg?branch=master">](https://travis-ci.com/denoland/deno)
-* [Moresyl/dsh-studio](https://github.com/Moresyl/dsh-studio) — Cross-platform desktop studio for installing, supervising, and managing DeepSeek Harness. [![CI](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml)
 * [ivanceras/diwata](https://github.com/ivanceras/diwata) — A database administration tool for postgresql [<img src="https://api.travis-ci.org/ivanceras/diwata.svg">](https://travis-ci.org/ivanceras/diwata)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
@@ -127,6 +126,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [limonite](https://crates.io/crates/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [MaidSafe](https://maidsafe.net) — A decentralized platform.
 * [mdBook](https://crates.io/crates/mdbook) — A command line utility to create books from markdown files [<img src="https://api.travis-ci.com/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
+* [Moresyl/dsh-studio](https://github.com/Moresyl/dsh-studio) — Cross-platform desktop studio for installing, supervising, and managing DeepSeek Harness. [![CI](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml)
 * [nicohman/eidolon](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx [<img src="https://api.travis-ci.org/nicohman/eidolon.svg?branch=master">](https://travis-ci.org/nicohman/eidolon)
 * [nika](https://github.com/supernovae-st/nika) — Intent-as-code workflow engine for AI: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent. Single binary.
 * [notty](https://github.com/withoutboats/notty) — A new kind of terminal
