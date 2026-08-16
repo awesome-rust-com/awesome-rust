@@ -126,6 +126,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [limonite](https://crates.io/crates/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [MaidSafe](https://maidsafe.net) — A decentralized platform.
 * [mdBook](https://crates.io/crates/mdbook) — A command line utility to create books from markdown files [<img src="https://api.travis-ci.com/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
+* [Moresyl/dsh-studio](https://github.com/Moresyl/dsh-studio) — Cross-platform desktop studio for installing, supervising, and managing DeepSeek Harness. [![CI](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/Moresyl/dsh-studio/actions/workflows/ci.yml)
 * [nicohman/eidolon](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx [<img src="https://api.travis-ci.org/nicohman/eidolon.svg?branch=master">](https://travis-ci.org/nicohman/eidolon)
 * [nika](https://github.com/supernovae-st/nika) — Intent-as-code workflow engine for AI: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent. Single binary.
 * [notty](https://github.com/withoutboats/notty) — A new kind of terminal
