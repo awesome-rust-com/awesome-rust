@@ -689,6 +689,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 [[astronomy](https://crates.io/keywords/astronomy)]
 
+* [arthiqlabs/vedaksha](https://github.com/arthiqlabs/vedaksha) — Clean-room astronomical ephemeris and Vedic computation engine with JPL-validated positions, native Jyotish primitives, WebAssembly and Python bindings, and an MCP server.
 * [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — astronomy for Rust [<img src="https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master">](https://travis-ci.org/saurvs/astro-rust)
 * [fitsio](https://crates.io/crates/fitsio) — fits interface library wrapping cfitsio [<img src="https://api.travis-ci.org/mindriot101/rust-fitsio.svg?branch=master">](https://travis-ci.org/mindriot101/rust-fitsio)
 * [flosse/rust-sun](https://github.com/flosse/rust-sun) — A rust port of the JS library suncalc [<img src="https://api.travis-ci.org/flosse/rust-sun.svg?branch=master">](https://travis-ci.org/flosse/rust-sun)
