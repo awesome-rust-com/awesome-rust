@@ -116,6 +116,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — A tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
 * [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://api.travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
 * [fcsonline/drill](https://github.com/fcsonline/drill) — A HTTP load testing application inspired by Ansible syntax [<img src="https://api.travis-ci.org/fcsonline/drill.svg?branch=master">](https://travis-ci.org/fcsonline/drill)
+* [ferrum-cli](https://crates.io/crates/ferrum-cli) — Rust-native local LLM inference with Metal, CUDA, and OpenAI-compatible serving. [![Build Status](https://github.com/sizzlecar/ferrum-infer-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sizzlecar/ferrum-infer-rs/actions/workflows/ci.yml)
 * [Fractalide](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 * [gitside](https://crates.io/crates/gitside) — A VS Code-inspired source-control panel for the terminal.
 * [habitat](https://www.habitat.sh) — An tool created by [Chef](https://www.chef.io/) to build, deploy, and manage applications.
