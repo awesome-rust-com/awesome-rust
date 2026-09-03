@@ -308,6 +308,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [dutradotdev/quokka](https://github.com/dutradotdev/quokka) — Terminal-native iPhone inspection and cleanup over USB for macOS. No jailbreak.
 * [fselect](https://crates.io/crates/fselect) — Find files with SQL-like queries [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [Glubiz/zirv](https://github.com/Glubiz/zirv-dynamic-cli) - CLI for workflow automation via YAML/JSON/TOML scripts
+* [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) — Safety-first disk cleaner and space analyzer for macOS and Windows, with visual storage maps, duplicate detection, app uninstall, and local review before deletion.
 * [j0ru/kickoff](https://github.com/j0ru/kickoff) — Fast wayland program launcher
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) — A download accelerator [<img src="https://api.travis-ci.org/k0pernicus/zou.svg?branch=master">](https://travis-ci.org/k0pernicus/zou)
 * [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — xargs + awk with pattern matching support [<img src="https://api.travis-ci.org/lotabout/rargs.svg?branch=master">](https://travis-ci.org/lotabout/rargs)
