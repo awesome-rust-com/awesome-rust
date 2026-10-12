@@ -136,6 +136,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [rsign](https://crates.io/crates/rsign) — A simple command-line tool used to generate/sign/verify digital signatures designed to be compatible with Minisign  [![Codeship Status for danielrangel/rsign](https://app.codeship.com/projects/60b28d80-7645-0135-4402-1639b58199d0/status?branch=master)](https://app.codeship.com/projects/244452)
 * [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
 * [Servo](https://github.com/servo/servo) — A prototype web browser engine
+* [shaunlee/beanstalkd-rs](https://github.com/shaunlee/beanstalkd-rs) — A drop-in replacement for [beanstalkd](https://github.com/beanstalkd/beanstalkd): the same work-queue protocol byte for byte, with built-in TLS, Prometheus metrics and optional Raft replication [![CI](https://github.com/shaunlee/beanstalkd-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/shaunlee/beanstalkd-rs/actions/workflows/ci.yml)
 * [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [Tura](https://github.com/Tura-AI/tura) — A local, open-source coding agent with terminal, TUI, and desktop interfaces.
 * [Weld](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
