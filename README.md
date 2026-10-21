@@ -285,6 +285,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [BenSchZA/pier](https://github.com/BenSchZA/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs [<img src="https://api.travis-ci.com/BenSchZA/pier.svg?branch=master">](https://travis-ci.com/BenSchZA/pier)
 * [chrispaig3/expo](https://github.com/chripaig3/expo) - A Rusty CLI tool for managing the accessibility of GitHub repositories at scale.
 * [NeoPanic/Glim](https://github.com/NeoPanic/Glim) — A macOS file viewer built with Rust and GPUI Kit for Markdown, PDFs, images, JSON, CSV and source code in one workspace
+* [koruworks/mono](https://github.com/koruworks/mono) - Koru, a local-first workspace for notes, docs and files with a native Rust UI (not Electron) that stores notes in a local database, for Windows and macOS
 
 ### Security tools
 
