@@ -105,6 +105,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organizations running Rust in production) and [Rust Companies](https://github.com/omarabid/rust-companies) (A curated list of companies using Rust in production).
 
+* [aegis-orchestrator](https://crates.io/crates/aegis-orchestrator) — AEGIS by 100monkeys.ai: a self-hosted orchestrator that runs autonomous agents in isolated, policy-enforced runtimes with durable FSM state. AGPL-3.0, in beta.
 * [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — interative assembly shell written in rust.
 * [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — A command line utility to walk an Amazon S3 hierarchy, an analog of find for Amazon S3 [<img src="https://api.travis-ci.org/AnderEnder/s3find-rs.svg?branch=master">](https://travis-ci.org/AnderEnder/s3find-rs)
