@@ -1366,6 +1366,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [dlrobertson/capsicum-rs](https://github.com/dlrobertson/capsicum-rs) — Rust bindings for the FreeBSD capsicum framework
 
 ### Robotics
+* [cerulion-inc/cerulion](https://github.com/cerulion-inc/cerulion) [[cerulion_cli](https://crates.io/crates/cerulion_cli)] — Robot runtime with zero-copy shared memory and a graph-aware scheduler. A 1 MiB round trip takes 4.08 µs for native nodes and 11.12 µs for ROS 2 Jazzy over rmw_cerulion, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026). Re-executes supported native recordings against new code, with an exit code for CI. [![CI](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml)
 * * [dysonltd/universal-robot](https://github.com/dysonltd/universal-robot) — Universal Robot Cobot Ethernet Communication API
 
 ### Scripting
