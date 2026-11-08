@@ -1248,7 +1248,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [slog-rs/slog](https://github.com/slog-rs/slog) — Structured, composable logging for Rust [![Build Status](https://api.travis-ci.org/slog-rs/slog.svg?branch=master)](https://travis-ci.org/slog-rs/slog)
 * [sfackler/log4rs](https://github.com/sfackler/log4rs) — highly configurable logging framework modeled after Java's Logback and log4j libraries [![Build Status](https://api.travis-ci.org/sfackler/log4rs.svg?branch=master)](https://travis-ci.org/sfackler/log4rs)
 * [jesusprubio/leg](https://github.com/jesusprubio/leg) — Elegant print for lazy devs. Make your CLIs nicer with minimal effort. [![Build Status](https://github.com/jesusprubio/leg/workflows/CI/badge.svg)](https://github.com/jesusprubio/leg/actions/workflows/ci.yml)
-* [logbrew](https://crates.io/crates/logbrew) — Rust SDK for LogBrew error tracking and logs, sends errors and events in batches with typed issue diagnostics [![Build Status](https://github.com/LogBrewCo/sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/LogBrewCo/sdk/actions/workflows/ci.yml)
+* [logbrew](https://crates.io/crates/logbrew) — Error monitoring for Rust apps. Sends errors and logs to LogBrew so you see what broke and why [![Build Status](https://github.com/LogBrewCo/sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/LogBrewCo/sdk/actions/workflows/ci.yml)
 
 ### Macro
 
