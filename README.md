@@ -693,9 +693,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [michoo/spasm](https://github.com/michoo/spasm) — SPASM Smol PASsword Manager to use in your terminal, very simple to modify. With argon2, password generators(random, Dice,..), Check password complexity (Shannon), Check password on HIBP (Have I Been Pwnd),...
 * [sfackler/rust-native-tls](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 * [sfackler/rust-openssl](https://github.com/sfackler/rust-openssl) — [OpenSSL](https://www.openssl.org/) bindings [<img src="https://api.travis-ci.org/sfackler/rust-openssl.svg?branch=master">](https://travis-ci.org/sfackler/rust-openssl)
-* [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (OSX native 
-
-)
+* [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework) — Bindings for Security Framework (macOS native TLS).
 * [steffengy/schannel-rs](https://github.com/steffengy/schannel-rs) — Bindings for Schannel (Windows native TLS)
 * [zebradil/rustotpony](https://github.com/zebradil/rustotpony) — CLI manager of one-time password generators aka Google Authenticator (TOTP)
 
@@ -1105,7 +1103,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 
 ### Robotics
 * [cerulion-inc/cerulion](https://github.com/cerulion-inc/cerulion) [[cerulion_cli](https://crates.io/crates/cerulion_cli)] — Robot runtime with zero-copy shared memory and a graph-aware scheduler. A 1 MiB round trip takes 4.08 µs for native nodes and 11.12 µs for ROS 2 Jazzy over rmw_cerulion, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026). Re-executes supported native recordings against new code, with an exit code for CI. [![CI](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/cerulion-inc/cerulion/actions/workflows/ci.yml)
-* * [dysonltd/universal-robot](https://github.com/dysonltd/universal-robot) — Universal Robot Cobot Ethernet Communication API
+* [dysonltd/universal-robot](https://github.com/dysonltd/universal-robot) — Universal Robot Cobot Ethernet Communication API
 
 ### Scripting
 

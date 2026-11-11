@@ -2,21 +2,31 @@ name: lint
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
+
+permissions:
+  contents: read
 
 jobs:
   test:
-
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ruby-version: '3.1'
-      - name: Install dependencies
-        run: gem install awesome_bot
-    
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Test catalog checks
+        run: python -m unittest discover -s tests -v
+      - name: Check Markdown and catalog structure
+        run: python scripts/check_catalog.py
+      - name: Review added project sources
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          BASE_REF: ${{ github.event.pull_request.base.sha }}
+        run: python scripts/check_catalog.py --github --base-ref "$BASE_REF"
