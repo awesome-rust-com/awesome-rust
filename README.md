@@ -160,6 +160,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 
 * [HelixDB](https://github.com/HelixDB/helix-db) — An open-source graph-vector database written in Rust [<img src="https://raw.githubusercontent.com/HelixDB/helix-db/main/assets/full_logo.png">](https://raw.githubusercontent.com/HelixDB/helix-db/main/assets/full_logo.png)
 * [indradb](https://crates.io/crates/indradb) — Rust based graph database [<img src="https://api.travis-ci.org/indradb/indradb.svg?branch=master">](https://travis-ci.org/indradb/indradb)
+* [kividbio/kividb](https://github.com/kividbio/kividb) [[kividb](https://crates.io/crates/kividb)] — A Redis-compatible in-memory database and cache, with persistence, replication, clustering, search, vector search and JSON [<img src="https://img.shields.io/github/stars/kividbio/kividb?style=flat&label=stars">](https://github.com/kividbio/kividb/stargazers)
 * [noria](https://crates.io/crates/noria) — Dynamically changing, partially-stateful data-flow for web application backends [<img src="https://api.travis-ci.org/mit-pdos/noria.svg?branch=master">](https://travis-ci.org/mit-pdos/noria)
 * [ParadeDB](https://github.com/paradedb/paradedb) - A transactional alternative to Elasticsearch built on Postgres
 * [ParityDB](https://github.com/paritytech/parity-db) — A fast and reliable database optimised for read operations.
