@@ -37,4 +37,21 @@ Include the following information when adding or restoring a project:
 
 For removals or moves, state the reason and preserve useful historical or migration context. A project can be useful and high quality while falling outside this list's language-share scope.
 
+## Running the checks
+
+CI uses Python 3.12. Run the catalog checks and regression tests locally with the following commands.
+
+```bash
+python3 scripts/check_catalog.py
+python3 -m unittest discover -s tests -v
+```
+
+To review newly added project URLs against a base branch, fetch that branch and run the metadata check. Set `GITHUB_TOKEN` when authenticated API access is available.
+
+```bash
+python3 scripts/check_catalog.py --github --base-ref origin/master
+```
+
+CI validates local Markdown links, heading anchors, the table of contents and duplicate project links within a category. For added GitHub projects, including GitHub sources resolved through crates.io, it checks source availability, archive/disable status and the strict Rust-share threshold. Known violations fail the check. Empty statistics, API outages, unresolved licenses and other source hosts produce `REVIEW` messages for maintainer follow-up. Include documentation, license and maintenance evidence in the pull request for those cases.
+
 Thank you for helping keep the list useful and current.
