@@ -512,6 +512,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) — Rust library for Self Organising Maps (SOM). [![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
 * [autumnai/leaf](https://github.com/autumnai/leaf) — Open Machine Intelligence framework. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spearow/juice]( https://github.com/spearow/juice).
 * [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Machine learning crate for Rust. [![Circle CI](https://circleci.com/gh/maciejkula?/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
+* [orko-rs/orko](https://github.com/orko-rs/orko) [[orko](https://crates.io/crates/orko)] — Agent orchestration toolkit with a typed provider/agent/tool core and 17 model providers (hosted and local). [![Status](https://img.shields.io/badge/status-early%20development-yellow.svg)](https://github.com/orko-rs/orko#development-status) [<img src="https://raw.githubusercontent.com/orko-rs/orko/master/pictures/orko_logo_no_bg.png" alt="Orko logo" height="20">](https://github.com/orko-rs/orko)
 
 ### Astronomy
 
