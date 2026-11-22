@@ -121,6 +121,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
 * [MaidSafe](https://maidsafe.net) — A decentralized platform.
 * [mdBook](https://crates.io/crates/mdbook) — A command line utility to create books from markdown files [<img src="https://api.travis-ci.com/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
+* [mollie2999/Aurora](https://github.com/mollie2999/Aurora) — An unofficial native Steam client for Linux and Windows.
 * [nicohman/eidolon](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx [<img src="https://api.travis-ci.org/nicohman/eidolon.svg?branch=master">](https://travis-ci.org/nicohman/eidolon)
 * [nika](https://github.com/supernovae-st/nika) — Intent-as-code workflow engine for AI: reviewable YAML DAGs statically checked (schema, permits, honest cost floor) before any token is spent. Single binary.
 * [notty](https://github.com/withoutboats/notty) — A new kind of terminal
