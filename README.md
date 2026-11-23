@@ -331,6 +331,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 ### Video
 
 * [salihcantekin/RustFrame](https://github.com/salihcantekin/RustFrame) — A privacy-focused, cross-platform screen region sharing tool for video calls [<img src="https://img.shields.io/github/actions/workflow/status/salihcantekin/RustFrame/build-windows.yml?branch=master">](https://github.com/salihcantekin/RustFrame/actions/workflows/build-windows.yml)
+* [ultrafastmov/ultrafast](https://github.com/ultrafastmov/ultrafast) [[ultrafast](https://crates.io/crates/ultrafast)] — A GPU video engine and CLI that renders JSON scene documents on Metal or Vulkan, without a browser, to H.264, HEVC, AV1 or ProRes [<img src="https://github.com/ultrafastmov/ultrafast/actions/workflows/ci.yml/badge.svg?branch=main">](https://github.com/ultrafastmov/ultrafast/actions/workflows/ci.yml)
 * [yuvadm/slingr](https://github.com/yuvadm/slingr) — A simple CLI for streaming media files over a local network to UPnP media renderers [<img src="https://api.travis-ci.org/yuvadm/slingr.svg?branch=master">](https://travis-ci.org/yuvadm/slingr)
 
 ### Virtualization
