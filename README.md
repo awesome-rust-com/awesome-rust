@@ -165,6 +165,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [ParadeDB](https://github.com/paradedb/paradedb) - A transactional alternative to Elasticsearch built on Postgres
 * [ParityDB](https://github.com/paritytech/parity-db) — A fast and reliable database optimised for read operations.
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) — an event sourcing database engine [<img src="https://api.travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master">](https://travis-ci.org/PumpkinDB/PumpkinDB)
+* [ReRu](https://github.com/mansiverma897993/ReRu) — A Redis-compatible RESP2 cache and data-structure server in safe Rust, with TTLs, AOF/RDB persistence, replication and streams [![CI](https://img.shields.io/github/actions/workflow/status/mansiverma897993/ReRu/ci.yml?branch=main&label=CI)](https://github.com/mansiverma897993/ReRu/actions/workflows/ci.yml)
 * [SurrealDB](https://github.com/surrealdb/surrealdb) — A scalable, distributed, document-graph database in Rust [<img src="https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration">](https://github.com/surrealdb/surrealdb/actions)
 * [tikv](https://github.com/tikv/tikv) — A distributed KV database in Rust [<img src="https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708">](https://circleci.com/gh/tikv/tikv)
 
